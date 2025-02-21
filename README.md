@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ![Banner](https://github.com/demonicheinz/my-links/blob/main/assets/banner.png) -->
+![Banner](/assets/banner.png)
 
 <br>
 
